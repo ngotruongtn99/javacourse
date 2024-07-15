@@ -1,4 +1,4 @@
-package JavaTutorial;
+package JavaTutorial.chap1;
 
 import java.util.Scanner;
 
@@ -12,7 +12,7 @@ public class Lab01 {
 		float mark = scanner.nextFloat();
 
 		System.out.println("Thông tin: " + name + ", điểm: " + mark);
-
+		scanner.close();
 	}
 
 }

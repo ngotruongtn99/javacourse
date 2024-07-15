@@ -1,4 +1,4 @@
-package JavaTutorial;
+package JavaTutorial.chap1;
 
 import java.util.Scanner;
 
@@ -14,6 +14,8 @@ public class Lab02 {
 		System.out.println("Chu vi của hình chữ nhật là: " + (d + r) * 2);
 		System.out.println("Diện tích của hình chữ nhật là: " + d * r);
 		System.out.println("Cạnh nhỏ nhật là: " + Math.min(d, r));
+
+		scanner.close();
 	}
 
 }

@@ -1,4 +1,4 @@
-package JavaTutorial;
+package JavaTutorial.chap1;
 
 import java.util.Scanner;
 
@@ -19,6 +19,7 @@ public class HelloWorld {
 		int c = Math.max(a, b);
 
 		System.out.println(c);
+		scanner.close();
 	}
 
 }
