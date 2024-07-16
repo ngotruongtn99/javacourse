@@ -1,4 +1,4 @@
-package JavaTutorial.chap2;
+package JavaTutorial.chapter2;
 
 import java.util.Scanner;
 
